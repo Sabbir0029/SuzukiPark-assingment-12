@@ -1,0 +1,12 @@
+.icon {
+  font-size: 10rem;
+}
+.card {
+  border: none;
+  box-shadow: 0 0 16px rgb(17 17 26 / 10%);
+}
+.card-de {
+  border-radius: 20px;
+  padding: 30px 25px;
+  border-radius: 50px 50px 0 0;
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "name":"Dinajpur",
+        "code":"001",
+        "famous":"Lichi",
+        "population":"182241",
+        "area":"3430",
+        "devision":"Rangpur",
+        "img":"https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/55/96/11/kantajew-temple-kantajew.jpg"
+    },
+    {
+        "name":"Tangail",
+        "code":"002",
+        "famous":"Chom-Chom",
+        "population":"3605083",
+        "area":"3414",
+        "devision":"Dhaka",
+        "img":"https://foodaj.com/wp-content/uploads/2020/07/21458295_127164894600604_6295814189975096920_o.jpg"
+    },
+    {
+        "name":"Panchagarah",
+        "code":"003",
+        "famous":"K.Jangha",
+        "population":"987644",
+        "area":"1405",
+        "devision":"Rangpur",
+        "img":"https://live.staticflickr.com/5597/15276077587_43d94ba25c_b.jpg"
+    },
+    {
+        "name":"Sylet",
+        "code":"004",
+        "famous":"Tea Garden",
+        "population":"300957",
+        "area":"3452",
+        "devision":"Sylet",
+        "img":"https://adarbepari.com/wp-content/uploads/2016/09/lakkatura-tea-garden-sylhet-01.jpg"
+    },
+    {
+        "name":"Bandarban",
+        "code":"005",
+        "famous":"Nature",
+        "population":"388335",
+        "area":"4479",
+        "devision":"Chitagng",
+        "img":"https://dailyasianage.com/library/1576957938_5.jpg"
+    },
+    {
+        "name":"Bagherhat",
+        "code":"006",
+        "famous":"Sundarban",
+        "population":"1000476 ",
+        "area":"3959 ",
+        "devision":"Khulna",
+        "img":"https://media-eng.dhakatribune.com/uploads/2020/09/9-new-project-1599296482873.jpg"
+    },
+    {
+        "name":"Chittagong",
+        "code":"007",
+        "famous":"Beach",
+        "population":"700616",
+        "area":"5283",
+        "devision":"Chitagng",
+        "img":"https://www.daily-bangladesh.com/media/imgAll/2020June/en/Coxs-bazar-2009131205.jpg"
+    },
+    {
+        "name":"Chandpur",
+        "code":"008",
+        "famous":"Ilish",
+        "population":"200416 ",
+        "area":"1704",
+        "devision":"Comilla",
+        "img":"https://img-global.cpcdn.com/recipes/8ccc0510c68ce3a0/1200x630cq70/photo.jpg"
+    },
+    {
+        "name":"Natore",
+        "code":"009",
+        "famous":"Kacha golla",
+        "population":"100707",
+        "area":"1900 ",
+        "devision":"Rajshahi",
+        "img":"https://www.rankmylist.com/images/listimagedisplay/uTbcLNoWcnYIu1Vhxm48hPyALQKXh66R8CFCtgCAoO1.jpg"
+    },
+    {
+        "name":"Dhaka",
+        "code":"010",
+        "famous":"Mosque",
+        "population":"1200004",
+        "area":"1464 ",
+        "devision":"Dhaka",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Jatiyo_Sriti_Shoudho_%28%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF_%E0%A6%B8%E0%A7%8C%E0%A6%A7%29.jpg"
+    }
+]
